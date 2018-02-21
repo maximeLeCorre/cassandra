@@ -9,7 +9,7 @@ CREATE TABLE IF NOT EXISTS stock (
 "20-day" FLOAT,
 "200-day" FLOAT,
 "50-day" LIST<FLOAT>,
-"52-day" LIST<FLOAT>,
+"52-week" LIST<FLOAT>,
 analystrecom FLOAT,
 averagetruerange FLOAT,
 averagevolume FLOAT,
